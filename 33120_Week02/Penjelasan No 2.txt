@@ -1,0 +1,6 @@
+	Pada bagian a dan juga bagian b yang terjadi adalah Fatal Error : Empty String yang di mana
+bagian a ini tidak ada integer untuk dioperasikan dan kemudian pada bagian b tidak ada pembagi alias
+NULL. Pada bagian c agak berbeda dengan si b dikarenakan dari 2 kasus tersebut merupakan suatu
+pembagian, tapi pada bagian c tidak ada Fatal Error dikarenakan ada valuenya yakni 0. Kemudian
+bagaimana cara mengatasinya? Cara mengatasinya bisa dengan menggunakan try catch buat excpetionnya
+terus bisa juga dengan form validator.
