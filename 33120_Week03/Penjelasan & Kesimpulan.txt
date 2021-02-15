@@ -1,0 +1,5 @@
+	Ketika membuka aplikasi nanti akan disajikan suatu kata yang berturut - turut dari Kata 1 sampai
+Kata 20, kemudian ketika kita menekan salah satu recyclerView atau kata tersebut, maka nanti akan ada
+tambahan kata muncul disebelahnya misal Kata 1 menjadi "Kata 1 pernah diklik" dan itu akan muncul terus
+apabila diklik berkali - kali. Kemudian apabila kita mengklik tanda tambah dipojok kanan bawah, maka
+akan muncul Kata 21 akan muncul dan itu akan selalu + 1 apabila diklik.
