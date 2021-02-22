@@ -1,0 +1,16 @@
+Ans :
+((-- App A --))
+	Pada bagian yang pertama itu akan disajikan 2 text isian yang pertama dengan tulisan "Tek yang akan 
+dikirim", Text isi yang satu ini akan mentransfer atau mengirim data kepada activity lainnya, jadi teks
+yang sudah ditulis akan muncul pada UI activity lainnya. Kemudian setelah mengklik button "Kirim" dan data
+sudah terkirim, maka akan didirect ke Activity kedua yang dimana terdapat kolom Text isi untuk menjawab
+text yang sudah dikirim dari activity satu, jadi istilahnya disini itu chatingan seperti itu. Kemudian untuk
+"halaman website" jika diisi dan diklik button Browse maka tidak terjadi apa - apa, dikarenakan buttonnya 
+belum diatur untuk itu, tetapi jika halaman website dikosongin dan diklik browse, maka akan mendefault
+untuk menuju ke link umn.ac.id seperti itu.
+
+((-- App B --))
+	Untuk app yang kedua ini jadi tujuannya untuk membentu suatu tampilan UI yang itu dibangun atau dibuat
+dari fragment/pecahan - pecahan/layout yang disusun sedemikian rupa yang kemudian nantinya itu akan digabungkan
+menjadi satu kesatuan UI. Jadi itu mengkombinasikan fragment menjadi satu activity dan bisa menggunakannya
+untuk membangun UI multipanel serta menggunakannya kembali untuk beberapa activity lainnya jika dibutuhkan.
