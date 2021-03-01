@@ -1,0 +1,11 @@
+Ans :
+((-- App --))
+	Pada aplikasi ini khusus dibuat untuk menggambar, dalam aplikasi terdapat fitur untuk membuat segi empat,
+kemudian membuat oval, terus ada garis, dan ada Path digunakan untuk menggambar bebas tanpa bentuk. Setelah
+itu dalam aplikasi ini juga tedapat fitur untuk memberikan warna pada setiap bentuk atau tulisan yang kita
+ingin warnai, terdapat 3 warna Red, Green, dan juga Blue. Kemudian dari ketiganya ini juga bisa membentuk 
+warna lainnya dan akan menghasilkan warna yang baru yang terbentuk dari 3 warna dasar tadi yakni merah, hijau,
+dan biru, nilai dari setiap warna dasar itu antara 0 - 255 dan untuk hasil perpaduannya akan terlihat dibagian
+pojok kanan bawah dari aplikasi. Terakhir ada fitur untuk menghapus semua yang sudah digambar atau ditulis, 
+dengan cara mengklik tanda silang merah dipojok kiri atas dan nantinya semua gambar atau tulisan yang terdapat
+dilayer akan terhapus.
