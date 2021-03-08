@@ -1,0 +1,15 @@
+Ans :
+((-- App --))
+	Untuk App 6A nanti akan menampilkan suatu animasi dari suatu lingkaran yang awalnya kecil kemudian
+akan membesar kemudian mengecil lagi dan itu akan berulang sampai aplikasi ditutup. Membuat animasi membesar
+dan mengecil pada app 6A ini menggunakan onSizeChanges(), jadi ketika diklik akan muncul animasinya. Kemudian 
+jika ingin mengubah radiusnya itu menggunakan setRadius() dan nilai global var nya itu mRadius, terus untuk 
+warna setColor() dengan global varnya mPaint. Selanjutnya App 6B menggunakan beberapa gambar kuda 01 - 11 yang 
+nantinya akan menjadikan gambar tersebut menjadi suatu animasi menggunakan deretan gambar tersebut, jadi 
+gambarnya itu terlihat seperti bergerak ketika diklik. Terakhir pada App 6C menampilkan animasi gerak fisika,
+pada aplikasi ini terdapat 2 jenis animasi yang pertama ada Spring dan Fling ketika kata si fling ini diklik
+maka akan terjadi rotasi pada sumbu X yakni DynamicAnimation.ROTATION_X, terus untuk mengatur kecepatan awalnya
+bisa menggunakan setStartVelocity(), selanjutnya yang Spring ini ketika diklik akan terjadi perubahan tempat
+dari Y yang bergerak vertical yakni DynamicAnimation.Y dari posisi awalnya diam akan bergerak ke bawah ke
+koordinat Y this.getY() dan kemudian akan kembali lagi ke posisi awalnya dan akan berulang terus ketika diklik.
+
