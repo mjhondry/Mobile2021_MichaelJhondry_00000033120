@@ -1,0 +1,9 @@
+Ans :
+((-- App --))
+	Pada app 7A ini itu fungsinya untuk mengambil gambar dan juga mengambil video, kemudian untuk bagian
+app 7B itu membuat suatu aplikasi ibaratnya itu seperti youtube yang akan menampung beberapa video yang 
+isinya itu terdapat judul, link url, dan sebagainya. Jadi ketika video tersebut diklik nanti akan diarahkan
+ke page detail yang akan menampilkan dan video akan berjalan, terus bisa dipause ataupun ingin dipercepat,
+kemudian apabila user ingin mencari video lainnya bisa tekan button "kembali", untuk video sendiri ini didirect
+dari directory raw yang didalamnya itu terdapat video video yang akan ditampilkan pada app 7B.
+
