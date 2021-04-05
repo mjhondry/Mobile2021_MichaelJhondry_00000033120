@@ -1,0 +1,11 @@
+Ans :
+((-- App --))
+	Pada app 8A membuat suatu Text Editor yang sederhana, fungsinya itu dapat menyimpan palin text yang
+diketik pada Text area atau disebutnya dengan multi-lines Edit Text Widget, kemudian untuk tempat menyimpan
+yang dipakai yaitu temporary folder, terus internal storage, dan external storage. Kemudian pada aplikasi 8B
+pemanfaatan penggunaan saved instance dan shared preferences yang fungsinya dapat menyimpan data pada session
+di app dengan bentuk Key-value, pada app 8B memiliki 2 data session yakni ada counter dan juga warna, counternya
+ini dimulai dari 0 dan ketika diklik "Tambah" maka akan bertambah +1, terus warna background object TextView
+menampilkan counter, perubahan akan terjadi jika mengklik button pada pilihan "Hitam", "Merah", "Biru", dan 
+"Hijau". Kemudian jika ingin melakukan reset semua counter dan warna, tinggal klik button "Reset".
+
