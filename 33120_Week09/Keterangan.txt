@@ -1,0 +1,11 @@
+Ans :
+((-- App --))
+	Pada app ini kita membuat aplikasi untuk menambahkan data mahasiswa dengan NIM yang sudah ada,
+nanti pada aplikasi akan ada tanda + pada bagian bawah kanan, ketika diklik nanti akan muncul tampilan untuk
+mengisi data dari mahasiswa yang ingin ditambahkan, di dalam layout tersebut terdapat NIM, nama, email, dan
+juga nomor hp, setelah itu data tersebut akan tersimpan pada layout home, kemudian pada aplikasi ini juga
+terdapat fitur delete dengan dua cara, ketika ingin delete semua aplikasi langsung saja ketik 3 titik di
+atas kanan aplikasi, kemudian klik "Hapus Semua", dengan begitu semua data tadi akan terhapus, kemudian
+delete opsi kedua dengan menggeser data ke kiri untuk menghapus data mahasiswa tertentu yang ingin dihapus.
+Kemudian geser ke kanan untuk melakukan pembaharuan data.
+
