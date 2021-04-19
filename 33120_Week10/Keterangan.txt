@@ -1,0 +1,11 @@
+Ans :
+((-- App --))
+	Pada aplikasi 10A melakukan pengulangan sebanyak n kali, jadi nilai input yang berupa angka acak antara
+10 sampai 60, dengan itu masing - masing iterasi akan berhenti atau sleep selama 200 milidetik dan mengirimkan
+nilai progress seperti nilai presentasi dari iterasi yang sudah dijalankan. Kemudian hasilnya berupa teks
+akan ditampilkan berapa lama progressnya sleep. Pada aplikasi 10B melakukan proses counting kemudian akan
+menunggu selama 200milidetik seperti pada aplikasi 10A, bedanya akan ada perbedaan nilai progress yang 
+ditampilkan pada TextView berupa lama aktifnya. Terakhir pada aplikasi 10C membuat suatu method yang gunanya
+untuk mengembalikan jam dan tanggal yang ditangkap oleh aplikasi dari sistem android yang kemudian akan
+ditampilkan pada bagian bawah layar dan beberapa detik kemudian informasi tersebut akan hilang.
+
