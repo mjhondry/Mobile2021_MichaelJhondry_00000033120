@@ -1,0 +1,7 @@
+Ans :
+((-- App --))
+	Pada aplikasi ini, menerapkan retrofit, jadi retrofit itu merupakan suatu client HTTP type-safe
+untuk Android dan juga Java, dengan menggunakan retrofit maka akan memudahkan untuk terhubung ke layanan web
+REST dengan menerjemahkan API ke dalam interface yang kita buat dan dengan retofit ini maka akan mempermudah 
+proses pertukaran data antara aplikasi android.
+
