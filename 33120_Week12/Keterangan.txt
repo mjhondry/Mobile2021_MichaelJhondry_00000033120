@@ -1,0 +1,8 @@
+Ans :
+((-- App --))
+	Pada aplikasi A, mengambil daftar dari semua sensor yang ada pada emulator yang kita gunakan dalam
+menajalankan aplikasi tersebut, kemudian di dalamnya digunakan sistem loop untuk melihat dan mengubah
+daftar sensor menjadi suatu string dan akan ditampilkan. Kemudian pada aplikasi B, hampir sama dengan sebelumnya
+yang mengambil sensor bawaan yakni sensor light dan juga proximity yang kemudian pada aplikasi akan didapatkan
+perubahan nilai dengan mendekatkan dan menjauhkan object dari sensor light dan juga sensor proximity.
+
