@@ -1,0 +1,6 @@
+Ans :
+((-- App --))
+	Pada aplikasi yakni untuk membuat suatu fitur Google maps, terus di dalamnya juga terdapat fitur 
+untuk mempresentasikan suatu market ataupun shape berupa Circle, Polyline, Marker, dan Polygon untuk
+menandai lokasi yang diinginkan.
+
